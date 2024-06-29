@@ -2,6 +2,8 @@
 
 This is a basic implementation of the Simon game using JavaScript, HTML, and CSS. The Simon game challenges players to remember and reproduce sequences of colors. Each round, a new color is added to the sequence, increasing the difficulty. If the player fails to reproduce the sequence correctly, the game asks them to restart from the beginning.
 
+## Link -> https://mohitmeenna.github.io/Simons-game/
+
 ## Start the game
 
 - The game will start with the first color in the sequence.
